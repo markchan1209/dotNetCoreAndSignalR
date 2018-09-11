@@ -1,0 +1,31 @@
+﻿@page
+<div class="container">
+    <div class="row">&nbsp;</div>
+    <div class="row">
+        <div class="col-6">&nbsp;</div>
+        <div class="col-6">
+            <form class="form-inline">
+                <div class="input-prepend input-append">
+                    <input type="text" name="group-message" id="group-message-text" placeholder="輸入訊息" />
+                    <input type="text" name="group-name" id="group-name" placeholder="輸入房間名稱" />
+                    <input type="button" id="groupmsg" class="btn" value="群發" />
+                    <input type="button" id="join-group" class="btn" value="加入房間" />
+                    <input type="button" id="leave-group" class="btn" value="離開房間" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12">
+            <hr />
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6">&nbsp;</div>
+        <div class="col-6">
+            <ul id="messagesList"></ul>
+        </div>
+    </div>
+</div>
+<script src="~/lib/signalr/dist/browser/signalr.js"></script>
+<script src="~/js/chat.js"></script>

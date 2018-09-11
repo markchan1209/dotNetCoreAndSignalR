@@ -1,0 +1,6 @@
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.csprojAssemblyReference.cache
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.csproj.CoreCompileInputs.cache
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.RazorAssemblyInfo.cache
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.RazorAssemblyInfo.cs
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.AssemblyInfoInputs.cache
+D:\Learn\dotnetcore\signalRTest01\dotNetCoreAndSignalR\obj\Debug\netcoreapp2.1\dotNetCoreAndSignalR.AssemblyInfo.cs
